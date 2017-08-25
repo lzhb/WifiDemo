@@ -1,0 +1,2 @@
+//include ':WebViewDemo', ':PreferenceActivityDemo', ':ConnectivityManagerDemo', ':WifiDemo', ':BluetoothDemo', ':CustomViewDemo'
+include ':CustomViewDemo', ':WifiDemo', ':ConnectivityManagerDemo', ':wifimanager'
